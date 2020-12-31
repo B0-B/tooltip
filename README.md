@@ -11,7 +11,7 @@ Easy-to-use embeddable and customizable html tooltip which allows the display of
 
 ## Integration
 A little script tag in your html and an `icon` or `img` is everything you need!
-Place the following script in the header of your page and adjust the global parameters to your demands. `Note:`If typing is enabled, the typing speed and randomness (human-like) of the typing is mimicked.
+Place the following script in the header or source it of and adjust the global parameters to your demands. `Note:`If typing is enabled, the typing speed and randomness (human-like) of the typing is mimicked.
 ```html
 <script>
     window.addEventListener('load', function () {
