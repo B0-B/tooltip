@@ -1,9 +1,13 @@
 # tooltip
 
-Easy-to-use embeddable and customizable html tooltip which allows the display of info text overlays during hover. This saves tons of times.
+Easy-to-use embeddable and customizable html tooltip which allows the display of info text overlays during hover. Tooltips are a handsome solution for cluttered websites without the need of hard-coded html info elements. 
 
-<img src="demo1.png" alt="drawing" width="200"/>
-<img src="demo2.png" alt="drawing" width="200"/>
+
+<img src="demo1.gif" alt="drawing" width="400"/>
+
+
+<img src="demo2.gif" alt="drawing" width="400"/>
+
 
 ## Integration
 A little script tag in your html and an `icon` or `img` is everything you need!
