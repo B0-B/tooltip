@@ -21,6 +21,7 @@ Place the following script in the header or source it of and adjust the global p
     </head>
     ...
 ```
+Once the script is triggered it will catch dynamically created `<tooltip>`-tags as well.
 ## Usage
 Set the `tooltip` tag to a prefered place of your page
 ```html
